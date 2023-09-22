@@ -5,7 +5,8 @@
 ### Install from repo
 
 - Based on book [Hypermedia Systems](https://hypermedia.systems/) by Carson Gross, Adam Stepinski, and Deniz Akşimşek; and their example app copied from [bigskysoftware / contact-app](https://github.com/bigskysoftware/contact-app)
-- If you are working from this repo (I'm going step by step, from the original "Web 1.0" hypermedia version onwards), then open a system terminal and do the following (I'm on Linux Ubuntu with Python 3.8.10):
+- I'm going step by step, from the original "Web 1.0" hypermedia version onwards.
+- If you are working from this repo then open a system terminal and do the following (I'm on Linux Ubuntu with Python 3.8.10):
 
 ```bash
 victor@victorpc:dev$ mkdir contact-app
